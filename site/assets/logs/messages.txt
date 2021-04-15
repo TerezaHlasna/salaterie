@@ -1,0 +1,23 @@
+2020-11-26 07:47:38	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 7 pages
+2020-11-26 07:47:49	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 3 pages
+2020-11-26 07:47:56	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 2 pages
+2020-11-26 07:48:50	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 5 pages
+2020-11-26 07:49:47	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 7 pages
+2020-11-26 12:37:12	tereza	http://salaterie.test/manager/profile/	Profile saved - admin_theme
+2020-11-28 10:32:45	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 5 pages
+2020-11-28 10:32:55	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 4 pages
+2020-12-03 08:31:41	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "email" data in 0 row(s) from 0 page(s) using template "basic-page". [page-by-page]
+2020-12-10 09:18:39	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "obrazky_produktu" data in 1 row(s) from 1 page(s) using template "produkty". [page-by-page]
+2020-12-10 10:36:42	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 2 pages
+2020-12-10 10:37:05	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 2 pages
+2021-02-05 17:51:18	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "produkt" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2021-02-25 08:59:16	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 3 pages
+2021-02-26 20:56:43	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "obrazky_produktu" data in 6 row(s) from 1 page(s) using template "fotogalerie". [page-by-page]
+2021-03-11 07:32:18	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "logo" data in 1 row(s) from 1 page(s) using template "cenik". [page-by-page]
+2021-03-11 07:32:18	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "obrazky" data in 3 row(s) from 1 page(s) using template "cenik". [page-by-page]
+2021-04-08 07:08:38	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "logo" data in 1 row(s) from 1 page(s) using template "cenik". [page-by-page]
+2021-04-08 07:08:38	tereza	http://salaterie.test/manager/setup/template/removeFields	Deleted field "obrazky" data in 4 row(s) from 2 page(s) using template "cenik". [page-by-page]
+2021-04-14 12:08:31	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 6 pages
+2021-04-14 12:08:42	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 5 pages
+2021-04-14 12:10:37	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 5 pages
+2021-04-14 12:10:58	tereza	http://salaterie.test/manager/page/sort/	Updated sort for 2 pages

@@ -1,0 +1,36 @@
+2020-11-26 07:41:48	?	?	Saved module 'SystemUpdater' config data
+2020-11-26 07:41:48	?	?	Saved module info caches
+2020-11-26 07:41:49	guest	http://salaterie.test/http404/	Saved module info caches
+2020-11-26 07:41:49	guest	http://salaterie.test/http404/	Installed module 'ProcessRecentPages'
+2020-11-26 07:41:49	guest	http://salaterie.test/http404/	Saved module info caches
+2020-11-26 07:41:49	guest	http://salaterie.test/http404/	Saved module 'SystemUpdater' config data
+2020-11-26 07:41:49	guest	http://salaterie.test/http404/	Saved module info caches
+2020-11-26 07:41:50	guest	http://salaterie.test/http404/	Installed module 'AdminThemeUikit'
+2020-11-26 07:41:50	guest	http://salaterie.test/http404/	Saved module info caches
+2020-11-26 07:41:58	guest	http://salaterie.test/manager/login/	Saved module 'ProcessProfile' config data
+2020-11-26 07:41:58	guest	http://salaterie.test/manager/login/	Saved module info caches
+2020-11-26 07:41:59	guest	http://salaterie.test/manager/login/	Installed module 'ProcessLogger'
+2020-11-26 07:41:59	guest	http://salaterie.test/manager/login/	Saved module info caches
+2020-11-26 07:41:59	guest	http://salaterie.test/manager/login/	Installed module 'InputfieldIcon'
+2020-11-26 07:41:59	guest	http://salaterie.test/manager/login/	Saved module info caches
+2020-11-26 07:41:59	guest	http://salaterie.test/manager/login/	Saved module 'SystemUpdater' config data
+2020-11-26 07:42:07	guest	http://salaterie.test/manager/login/	Saved module 'SystemUpdater' config data
+2020-11-26 07:42:08	?	?	Saved module 'SystemUpdater' config data
+2020-11-26 07:42:08	?	?	Saved module info caches
+2020-11-26 07:42:09	tereza	http://salaterie.test/manager/?login=1	Saved module 'SystemUpdater' config data
+2020-11-26 07:42:09	tereza	http://salaterie.test/manager/page/?login=1	Saved module 'SystemUpdater' config data
+2020-11-26 07:42:10	?	?	Saved module info caches
+2020-11-26 07:42:10	?	?	Saved module 'SystemUpdater' config data
+2020-11-26 07:42:11	?	?	Saved module info caches
+2020-11-26 07:42:11	tereza	http://salaterie.test/manager/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
+2020-12-10 09:26:06	tereza	http://salaterie.test/manager/module/download/	Saved module info caches
+2020-12-10 09:26:16	tereza	http://salaterie.test/manager/module/download/	Saved module info caches
+2020-12-10 09:26:47	tereza	http://salaterie.test/manager/module/	Installed module 'ProcessTracyAdminer'
+2020-12-10 09:26:47	tereza	http://salaterie.test/manager/module/	Installed module 'TracyDebugger'
+2020-12-10 09:26:48	tereza	http://salaterie.test/manager/module/	Saved module info caches
+2020-12-10 09:27:33	tereza	http://salaterie.test/manager/module/edit?name=TracyDebugger	Saved module 'TracyDebugger' config data
+2020-12-10 09:27:35	tereza	http://salaterie.test/manager/module/edit?name=TracyDebugger&collapse_info=1	Saved module 'TracyDebugger' config data
+2020-12-10 09:27:35	tereza	http://salaterie.test/manager/module/edit?name=TracyDebugger&collapse_info=1	Saved module 'TracyDebugger' config data
+2020-12-11 20:38:10	tereza	http://salaterie.test/manager/page/link/?id=1015&modal=1	Saved module 'InputfieldPage' config data
+2020-12-11 20:38:10	tereza	http://salaterie.test/manager/page/link/?id=1015&modal=1	Installed module 'InputfieldPageAutocomplete'
+2020-12-11 20:38:11	tereza	http://salaterie.test/manager/page/link/?id=1015&modal=1	Saved module info caches

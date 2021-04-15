@@ -1,0 +1,7 @@
+2020-12-11 18:08:21	tereza	http://salaterie.test/stale-produkty-1/	Method Page::first does not exist or is not callable in this context (in C:\laragon\www\salaterie\wire\core\Wire.php line 519)
+2021-02-05 18:05:44	tereza	http://salaterie.test/	Method Pageimages::size does not exist or is not callable in this context (in C:\laragon\www\salaterie\wire\core\Wire.php line 519)
+2021-02-05 18:06:23	tereza	http://salaterie.test/	Method Pageimages::size does not exist or is not callable in this context (in C:\laragon\www\salaterie\wire\core\Wire.php line 519)
+2021-02-05 18:07:05	tereza	http://salaterie.test/	Method Pageimages::size does not exist or is not callable in this context (in C:\laragon\www\salaterie\wire\core\Wire.php line 519)
+2021-02-05 18:08:13	tereza	http://salaterie.test/	Method Pageimages::size does not exist or is not callable in this context (in C:\laragon\www\salaterie\wire\core\Wire.php line 519)
+2021-02-05 18:08:52	tereza	http://salaterie.test/	Method Pageimages::size does not exist or is not callable in this context (in C:\laragon\www\salaterie\wire\core\Wire.php line 519)
+2021-04-08 07:01:10	tereza	http://salaterie.test/cenik/	Method Pageimages::size does not exist or is not callable in this context (in C:\laragon\www\salaterie\wire\core\Wire.php line 519)

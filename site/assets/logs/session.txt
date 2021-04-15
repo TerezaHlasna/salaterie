@@ -1,0 +1,71 @@
+2020-11-26 07:42:08	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2020-11-28 10:31:54	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2020-11-28 10:32:01	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2020-11-30 13:16:52	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2020-12-03 07:53:39	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2020-12-05 15:18:45	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2020-12-05 15:19:51	tereza	http://salaterie.test/manager/login/?id=1020	Successful login for 'tereza'
+2020-12-08 15:58:53	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2020-12-10 07:10:43	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2020-12-11 17:17:34	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2020-12-11 17:18:14	tereza	http://salaterie.test/manager/login/?id=1023	Successful login for 'tereza'
+2020-12-13 14:35:50	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2021-01-05 13:59:43	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-01-14 07:16:39	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-01-20 06:44:17	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2021-02-05 17:11:43	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-02-11 07:09:00	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2021-02-25 08:35:10	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-02-26 12:02:21	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2021-02-26 14:23:02	tereza	http://salaterie.test/manager/login/?id=1017	Successful login for 'tereza'
+2021-02-26 20:26:05	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-02-26 20:55:39	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-03-04 06:12:17	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2021-03-04 06:15:30	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2021-03-04 06:19:45	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-03-11 07:20:40	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-03-15 07:12:28	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2021-03-22 14:01:49	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-03-23 07:36:24	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-03-25 14:30:33	tereza	http://salaterie.test/manager/login/?id=1022	Successful login for 'tereza'
+2021-04-06 07:47:58	guest	http://salaterie.test/manager/login/	Error: Failed login for 'tereza' - Invalid password
+2021-04-06 07:48:03	guest	http://salaterie.test/manager/login/	Error: Failed login for 'tereza' - Invalid password
+2021-04-06 07:48:11	guest	http://salaterie.test/manager/login/	Error: Failed login for 'tereza' - Invalid password
+2021-04-06 07:48:22	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-04-06 07:58:11	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-08 06:57:43	guest	http://salaterie.test/manager/login/?id=1	Error: Failed login for 'tereza' - Invalid password
+2021-04-08 06:57:49	guest	http://salaterie.test/manager/login/?id=1	Error: Failed login for 'tereza' - Invalid password
+2021-04-08 06:57:55	guest	http://salaterie.test/manager/login/?id=1	Error: Failed login for 'tereza' - Invalid password
+2021-04-08 06:58:00	guest	http://salaterie.test/manager/login/?id=1	Error: Failed login for 'tereza' - Blocked login attempt
+2021-04-08 06:58:19	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2021-04-08 07:06:45	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-08 07:07:40	tereza	http://salaterie.test/manager/login/?id=1041	Successful login for 'tereza'
+2021-04-08 07:49:40	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-08 08:11:42	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2021-04-08 08:13:05	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-08 08:15:48	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2021-04-09 15:11:10	?	?	User 'tereza' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2021-04-13 06:15:42	guest	http://salaterie.test/manager/login/	Error: Failed login for 'tereza' - Invalid password
+2021-04-13 06:15:49	guest	http://salaterie.test/manager/login/	Error: Failed login for 'tereza' - Invalid password
+2021-04-13 06:15:55	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-04-13 06:31:16	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 06:41:55	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2021-04-13 07:33:25	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 11:08:37	tereza	http://salaterie.test/manager/login/?id=1016	Successful login for 'tereza'
+2021-04-13 11:47:51	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 12:05:27	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2021-04-13 12:14:48	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 12:15:28	tereza	http://salaterie.test/manager/login/?id=1	Successful login for 'tereza'
+2021-04-13 12:23:42	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 12:25:38	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-04-13 13:52:15	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 16:26:30	tereza	http://salaterie.test/manager/login/?id=1045	Successful login for 'tereza'
+2021-04-14 13:56:29	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-14 13:56:54	tereza	http://salaterie.test/manager/login/?id=1016	Successful login for 'tereza'
+2021-04-14 14:00:02	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-14 14:01:23	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-04-14 14:29:51	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-14 14:37:31	tereza	http://salaterie.test/manager/login/	Successful login for 'tereza'
+2021-04-14 16:25:10	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-14 17:25:12	tereza	http://salaterie.test/manager/login/?id=1024	Successful login for 'tereza'
+2021-04-14 17:33:27	?	?	User 'tereza' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)

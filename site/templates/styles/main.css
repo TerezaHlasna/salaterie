@@ -1,0 +1,254 @@
+/* blank */ 
+
+.logo{
+    max-width: 230px;
+    margin-top:30px;
+ 
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    margin-top: 70px;
+    font-family: "Roboto Condensed",sans-serif;
+    color: rgb(241, 171, 19);
+   
+}
+
+
+.uk-navbar-nav>li>a {
+    color: black;
+    font-size: 15px;
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+    text-align: center;
+  
+}
+
+.uk-navbar-nav>li>a:hover{
+    color: #ecac35;
+    
+}
+
+.uk-card-default{
+    color: rgb(108, 108, 108);
+  border-style: solid;
+   border-color: white;
+
+}
+
+.kontakt{
+    color:black;
+    border-color: white;
+    margin-top: 15px;
+}
+
+.nazvy_produktu{
+    font-size: 30px;
+    font-family: 'Sansita Swashed', cursive;
+   margin-top: 30px;
+  color:rgb(49, 49, 49);
+  
+ 
+ 
+}
+.nazvy_produktu a{
+    text-decoration: none;
+}
+.zruseni:hover{
+    text-decoration: none;
+}
+.uk-link a{
+    text-decoration: none;
+    color: white;
+}
+
+.nazvy_produktu:hover{
+  
+    color:  #2a6538;
+    
+   
+   
+}
+
+.paticka{
+    background-color:#d2d2d23b;
+}
+.paticka_homepage{
+  
+    background-color: #d2d2d23b;
+    color: #516543;
+}
+
+
+
+.zaklad_produkt{
+    border-radius: 100%;
+
+
+}
+
+.obrazky_produktu{
+    border-radius: 30px;
+max-width: 200px;
+}
+.nazvy_vyrobku{
+    font-size: 20px;
+    font-family: 'LexonHeadline';
+}
+
+.ikona{
+    max-width: 100px;
+    
+}
+
+.uvitani{
+margin-top: 35px;
+font-size: 45px;
+font-family: 'Sansita Swashed', cursive;
+color: #516543;
+}
+
+
+
+.text_paticky{
+    font-size: 18px;
+ 
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+}
+
+.text{
+    font-size: 35px;
+    font-family: 'Sansita Swashed', cursive;
+    margin-top: 90px;
+    margin-right: 90px;
+    color: #5d5d5d;
+}
+
+.text2{
+    font-size: 35px;
+    font-family: 'Sansita Swashed', cursive;
+    margin-top: 90px;
+    margin-left: 90px;
+    color:#5d5d5d; 
+}
+
+.posunuti{
+    margin-top: 35px;
+}
+.blog1{
+    background-color: #d2d2d23b;
+}
+
+.podtext1{
+    font-size: 21px;
+    color: rgb(93, 93, 93);
+   margin-right: 70px;
+   font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+}
+.podtext2{
+    font-size: 21px;
+    color:rgb(93, 93, 93); 
+   margin-left: 80px;
+   font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+}
+.nadpisy{
+color: rgb(210 217 112);
+font-size: 40px;
+font-family: 'Sansita Swashed', cursive;
+margin-top: 40px;
+}
+.nadpis_formular{
+    font-size: 25px;
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+    color: #5a5a5a;
+}
+
+
+
+
+.kontakt1 {
+    font-size: 21px;
+    color: rgb(72, 72, 72);
+    margin-top: 100px;
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+    
+}
+
+.seznam{
+    padding: 0;
+    margin-bottom: 0;
+   list-style-type: none;
+   margin-left: 30px;
+}
+.seznam2{
+    padding: 0;
+    margin-bottom: 0;
+   list-style-type: none;
+   margin-left: 40px;
+}
+
+.nazev_salatu_menu{
+    font-family:'proxima-nova',Helvetica,Arial,sans-serif;
+   
+}
+.obsah_salatu{
+    font-size: 1rem;
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+   
+}
+.cena{
+   
+    font-size: 22Px;
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 60px;
+   
+}
+.rychlokontakt_nazev{
+    font-family: 'Sansita Swashed', cursive;
+    color: #516543;
+    font-size: 22px;
+}
+.barva{
+   
+    margin-bottom: 0;
+}
+.rychlokontakt_podnadpis{
+    color:  #516543;
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+}
+
+.galery{
+    margin-top: 60px;
+}
+
+.nazvy_salatu{
+    margin-top:20px;
+    font-size: 30px;
+    font-family: 'Sansita Swashed', cursive;
+}
+.slozeni_produktu{
+    margin-bottom: 40px;
+    font-family: 'proxima-nova',Helvetica,Arial,sans-serif;
+}
+.nadpisUsmoothie{
+    margin-top: 40px;
+font-size: 50px;
+color:#f6c779; 
+font-family: 'Sansita Swashed', cursive;
+font-weight: 100;
+}
+
+.pozadi_kontakt{
+    background-color: #d2d2d23b;
+}
+.text_cenik{
+    color: #516543;
+}
+.uk-button-default{
+    border-color: rgb(142, 142, 142);
+    background-color: rgb(142, 142, 142);
+    color: white;
+}
